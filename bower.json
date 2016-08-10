@@ -1,0 +1,22 @@
+{
+  "name": "application-name",
+  "description": "Description",
+  "main": "index.js",
+  "authors": [
+    "My Name"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/madstain/fresh-angularjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-bootstrap": "^2.0.0",
+    "angular-ui-router": "ui-router#^0.3.1"
+  }
+}

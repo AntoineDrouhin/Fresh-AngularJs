@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.0",
+  "description": "Description",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "author": "My Name",
+  "license": ""
+}

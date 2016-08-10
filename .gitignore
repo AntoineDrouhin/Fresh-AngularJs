@@ -1,0 +1,19 @@
+
+
+/dist/
+.buildlog
+node_modules
+bower_components
+
+tmp
+
+# Ignore npm debug log
+npm-debug.log
+
+# build-analytics
+.build-analytics
+
+.DS_Store
+.idea
+
+*.log
